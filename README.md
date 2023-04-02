@@ -1,27 +1,42 @@
-# CalculadoraAngular
+<h1 align="center"> Calculadora em angular </h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
+<p align="center">
+Projeto feito para a diciplina de eletiva Web da Fatec ITU <br/>
+</p>
 
-## Development server
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-## Code scaffolding
+<br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+<p align="center">
+  <img alt="projeto calculadora" src="./img/calc.PNG" width="100%">
+</p>
 
-## Build
+## 🚀 Tecnologias
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Running unit tests
+- Angular
+- Typescript
+- Git e Github
+- NodeJS
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## 💻 Projeto
 
-## Running end-to-end tests
+Pagina criada a partir do código do professor
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## ⚜️ Licença
 
-## Further help
+Esse projeto está sob a licença MIT.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+---
+
+Feito com ❤️ by Murilo👋
